@@ -1,0 +1,100 @@
+{
+  "results_found": 120,
+  "results_start": 0,
+  "results_shown": 1,
+  "restaurants": [
+    {
+      "restaurant": {
+        "R": {
+          "has_menu_status": {
+            "delivery": -1,
+            "takeaway": -1
+          },
+          "res_id": 19041242
+        },
+        "apikey": "82620001ca282d1716dab0d934fb3051",
+        "id": "19041242",
+        "name": "The Co Dee Empresa Hotel",
+        "url": "https://www.zomato.com/kolkata/the-co-dee-empresa-hotel-park-street-area?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "12/2A, KYD Street, Park Street Area, Kolkata",
+          "locality": "Park Street Area",
+          "city": "Kolkata",
+          "city_id": 2,
+          "latitude": "22.5558428300",
+          "longitude": "88.3531927317",
+          "zipcode": "",
+          "country_id": 1,
+          "locality_verbose": "Park Street Area, Kolkata"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "North Indian, South Indian, Chinese",
+        "timings": "7:30 AM to 10:30 PM",
+        "average_cost_for_two": 100,
+        "price_range": 1,
+        "currency": "Rs.",
+        "highlights": [
+          "Dinner",
+          "Credit Card",
+          "Debit Card",
+          "Lunch",
+          "Cash",
+          "Takeaway Available",
+          "Breakfast",
+          "Indoor Seating",
+          "Air Conditioned",
+          "Smoking Area",
+          "Digital Payments Accepted"
+        ],
+        "offers": [],
+        "opentable_support": 0,
+        "is_zomato_book_res": 0,
+        "mezzo_provider": "OTHER",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "book_again_url": "",
+        "thumb": "",
+        "user_rating": {
+          "aggregate_rating": 0,
+          "rating_text": "Not rated",
+          "rating_color": "CBCBCB",
+          "rating_obj": {
+            "title": {
+              "text": "-"
+            },
+            "bg_color": {
+              "type": "grey",
+              "tint": "400"
+            }
+          },
+          "votes": 0
+        },
+        "all_reviews_count": 0,
+        "photos_url": "https://www.zomato.com/kolkata/the-co-dee-empresa-hotel-park-street-area/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "photo_count": 0,
+        "menu_url": "https://www.zomato.com/kolkata/the-co-dee-empresa-hotel-park-street-area/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "",
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "include_bogo_offers": true,
+        "deeplink": "zomato://restaurant/19041242",
+        "is_table_reservation_supported": 0,
+        "has_table_booking": 0,
+        "events_url": "https://www.zomato.com/kolkata/the-co-dee-empresa-hotel-park-street-area/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "phone_numbers": "033 40021888, +91 9674722554",
+        "all_reviews": {
+          "reviews": []
+        },
+        "establishment": [
+          "Casual Dining"
+        ],
+        "establishment_types": {
+          "establishment_type": {
+            "id": "16",
+            "name": "Casual Dining"
+          }
+        }
+      }
+    }
+  ]
+}
